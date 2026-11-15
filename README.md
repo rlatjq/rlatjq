@@ -5,8 +5,6 @@
 # sungh
 **Software Engineer — Systems & Backend**
 
-<br/>
-
 Building reliable, high-performance software with clean architecture.<br/>
 Focused on system-level efficiency and scalable backend engineering.
 
@@ -37,7 +35,7 @@ Focused on system-level efficiency and scalable backend engineering.
 
 <br/>
 
-[GitHub](https://github.com) &nbsp;&nbsp;·&nbsp;&nbsp; [Email](mailto:이메일주소@example.com)
+[GitHub]([https://github.com](https://github.com/rlatjq)) &nbsp;&nbsp;·&nbsp;&nbsp;
 
 <br/>
 
