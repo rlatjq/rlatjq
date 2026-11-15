@@ -1,21 +1,20 @@
+<!-- ================= HEADER ================= -->
 
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=220&section=header&text=RLATJQ&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Game%20%26%20Software%20Engineering&descAlignY=58&descSize=17" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=230&section=header&text=RLATJQ&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=GAME%20DEVELOPMENT%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=15" />
 
 </div>
 
-<!-- INTRO -->
 <h2 align="center">👋 Hello, I'm rlatjq</h2>
 
 <p align="center">
-  <b>Game Developer · Software Engineer · Programmer</b>
+  <b>Developer · Game Security · Software Engineering</b>
 </p>
 
 <p align="center">
-  Building projects, exploring low-level programming,<br/>
-  and continuously learning new technologies.
+  Exploring how software works, building projects,<br/>
+  and turning ideas into real applications.
 </p>
 
 <p align="center">
@@ -29,18 +28,25 @@
 ```yaml
 username: rlatjq
 role: Developer
+
 interests:
   - Game Development
-  - Software Engineering
   - Reverse Engineering
   - Game Security
   - System Programming
+  - Software Engineering
+
 currently_learning:
   - C / C++
   - Data Structures & Algorithms
   - Windows Internals
   - Computer Architecture
+  - Network Programming
+
+goal: Build and understand software from the inside out.
 ```
+
+---
 
 ## ⚡ Tech Stack
 
@@ -54,7 +60,7 @@ currently_learning:
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
-### Tools & Technologies
+### Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
@@ -66,17 +72,17 @@ currently_learning:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rlatjq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="49%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rlatjq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlatjq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="41%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlatjq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rlatjq&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%" />
+<img width="75%" src="https://streak-stats.demolab.com?user=rlatjq&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -87,39 +93,62 @@ currently_learning:
 <div align="center">
 
 <a href="https://github.com/rlatjq?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rlatjq&repo=rlatjq&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </a>
 
 </div>
 
-<p align="center">
-  Explore my repositories and ongoing projects.
-</p>
+### 🎮 Game Development
+Exploring game systems, gameplay mechanics, and interactive experiences.
+
+### 🔐 Game Security & Reverse Engineering
+Learning about software internals, debugging, memory, and operating system fundamentals.
+
+### 💻 Software Development
+Building applications and experimenting with different programming technologies.
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rlatjq/rlatjq/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rlatjq/rlatjq/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rlatjq/rlatjq/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/rlatjq/rlatjq/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/rlatjq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 📫 Connect
 
 <div align="center">
 
-### "Consistency is the key to engineering."
+<a href="https://github.com/rlatjq">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F172A,100:020617&height=100&section=footer" width="100%" />
+</div>
+
+<div align="center">
+
+<br/>
+
+**"Consistency is the key to engineering."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F172A,100:020617&height=120&section=footer" />
 
 </div>
