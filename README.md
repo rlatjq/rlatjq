@@ -3,7 +3,9 @@
 <br/>
 
 # sungh
-**Software Engineer — Systems & Backend**
+**Systems & Backend Engineer**
+
+<br/>
 
 Building reliable, high-performance software with clean architecture.<br/>
 Focused on system-level efficiency and scalable backend engineering.
@@ -16,7 +18,13 @@ Focused on system-level efficiency and scalable backend engineering.
 
 ### Core Stack
 
-`C` &nbsp;·&nbsp; `C++` &nbsp;·&nbsp; `Rust` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `Java`
+<p>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+</p>
 
 <br/>
 
@@ -24,18 +32,16 @@ Focused on system-level efficiency and scalable backend engineering.
 
 <br/>
 
-### Focus Areas
+### Contact
 
-**System Programming** &nbsp;—&nbsp; Memory safety, concurrency, low-level optimization<br/>
-**Backend Architecture** &nbsp;—&nbsp; Scalable APIs, distributed systems, data pipelines
-
-<br/>
-
----
-
-<br/>
-
-[GitHub]([https://github.com](https://github.com/rlatjq)) &nbsp;&nbsp;·&nbsp;&nbsp;
+<p>
+  <a href="mailto:이메일주소@example.com">
+    <img src="https://shields.io"/>
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io"/>
+  </a>
+</p>
 
 <br/>
 
