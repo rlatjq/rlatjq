@@ -18,13 +18,7 @@ Focused on system-level efficiency and scalable backend engineering.
 
 ### Core Stack
 
-<p>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
+`C` &nbsp;&nbsp;·&nbsp;&nbsp; `C++` &nbsp;&nbsp;·&nbsp;&nbsp; `Rust` &nbsp;&nbsp;·&nbsp;&nbsp; `Python` &nbsp;&nbsp;·&nbsp;&nbsp; `Java`
 
 <br/>
 
@@ -32,16 +26,18 @@ Focused on system-level efficiency and scalable backend engineering.
 
 <br/>
 
-### Contact
+### Focus Areas
 
-<p>
-  <a href="mailto:이메일주소@example.com">
-    <img src="https://shields.io"/>
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io"/>
-  </a>
-</p>
+**System Programming** — Memory safety, concurrency, low-level optimization<br/>
+**Backend Engineering** — Scalable APIs, distributed systems, data pipelines
+
+<br/>
+
+---
+
+<br/>
+
+[GitHub](https://github.com) &nbsp;&nbsp;·&nbsp;&nbsp; [Email](mailto:이메일주소@example.com)
 
 <br/>
 
