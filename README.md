@@ -78,9 +78,9 @@ goal: Build and understand software from the inside out.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rlatjq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
+<img width="49%" src="./profile/stats.svg" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlatjq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="./profile/top-langs.svg" />
 
 <br/><br/>
 
