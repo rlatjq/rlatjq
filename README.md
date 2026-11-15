@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="center">👋 Hello, I'm rlatjq</h2>
+<h2 align="center">👋 Hello I'm rlatjq</h2>
 
 <p align="center">
   <b>Developer · Cyber Security · Software Engineering</b>
