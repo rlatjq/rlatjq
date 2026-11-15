@@ -9,11 +9,11 @@
 <h2 align="center">👋 Hello, I'm rlatjq</h2>
 
 <p align="center">
-  <b>Developer · Game Security · Software Engineering</b>
+  <b>Developer · Cyber Security · Software Engineering</b>
 </p>
 
 <p align="center">
-  Exploring how software works, building projects,<br/>
+  Exploring how software works building projects<br/>
   and turning ideas into real applications.
 </p>
 
@@ -33,6 +33,7 @@ interests:
   - Game Development
   - Reverse Engineering
   - Game Security
+  - Cyber Security
   - System Programming
   - Software Engineering
 
@@ -42,7 +43,8 @@ currently_learning:
   - Windows Internals
   - Computer Architecture
   - Network Programming
-
+  - rust
+  - java
 goal: Build and understand software from the inside out.
 ```
 
@@ -147,7 +149,7 @@ Building applications and experimenting with different programming technologies.
 
 <br/>
 
-**"Consistency is the key to engineering."**
+**"I love development~ I love it so much~"**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F172A,100:020617&height=120&section=footer" />
 
